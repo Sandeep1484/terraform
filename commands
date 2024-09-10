@@ -1,0 +1,6 @@
+terraform workspace new <workspace_name>
+terraform workspace list
+terraform workspace select <workspace_name>
+terraform workspace show
+terraform workspace delete <workspace_name>
+terraform workspace rename <old_workspace_name> <new_workspace_name>
